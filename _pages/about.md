@@ -15,15 +15,15 @@ Prior to my PhD, I spent 6+ years in urban strategy consulting and community dev
 
 ## Publications
 
-**When AI Enters the Map: Exploring OSM Contributors’ Responses to AI-Assisted Mapping Tools** (In-Progress)  
+When AI Enters the Map: Exploring OSM Contributors’ Responses to AI-Assisted Mapping Tools (In-Progress)  
 Gopinath Gnanakumar Malathi, Graham Dove
 
 
-**From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap** (Accepted)  
+From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap (Accepted)  
 Gopinath Gnanakumar Malathi, Graham Dove  
 GeoJournal, 2026
 
-**Democratizing State-Led Land Use Mapping to Empower the Indigenous Use of Coastal Commons by Fishing Communities in Chennai, India** (Not Peer-Reviewed)  
+[Democratizing State-Led Land Use Mapping to Empower the Indigenous Use of Coastal Commons by Fishing Communities in Chennai, India](https://www.proquest.com/docview/2624656319?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (Not Peer-Reviewed)  
 Gopinath Gnanakumar Malathi  
 Pratt Institute, 2021
  
