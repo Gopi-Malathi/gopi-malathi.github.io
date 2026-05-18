@@ -12,3 +12,15 @@ I am a PhD Candidate in [Department of Technology Management & Innovation](https
 I investigate how individuals and communities interact with geospatial technologies to make maps, and how GeoAI might be reshaping their interactions with these technologies, their collaborative dynamics, and the geographic information they produce. Through my research, I aim to produce empirical evidence that might inform the responsible design and integration of GeoAI systems.
 
 Prior to my PhD, I spent 6+ years in urban strategy consulting and community development. I leveraged geospatial analytics to support public, private, and nonprofit clients/partners across the Northeast US on projects ranging from renewable energy and infrastructure planning to environmental justice and economic development.
+
+# Publications
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+# Presentations
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
