@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "From the fear of 'adding noise to the data' to the confidence to 'bend the rules': Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: 
+excerpt: "This was a qualitative study exploring OSM contributors' interactions with the community's informal mapping conventions. We demonstrate that OSM data is a sociotechnical achievement and that its quality is a derived characteristic of contributors’ continuous learning, interpretation, enactment, and collective negotiation of conventions. Moreover, we find that their interactions with these conventions serve as the primary socialization mechanism in OSM, transforming anxious newcomers into confident core contributors."
+date: 2026-04-25
+venue: 'GeoJournal'
+paperurl: 
+citation: 
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
