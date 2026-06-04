@@ -19,11 +19,11 @@ When AI Enters the Map: Exploring OSM Contributors’ Responses to AI-Assisted M
 Gopinath Gnanakumar Malathi, Graham Dove
 
 
-[From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap](https://link.springer.com/article/10.1007/s10708-026-11641-4)  
+From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap [Publication](https://link.springer.com/article/10.1007/s10708-026-11641-4) [Pre-Print](https://drive.google.com/file/d/17DaRDRYZ9ZMmP1WJQlo2ya78_2UVG9Gi/view)
 Gopinath Gnanakumar Malathi, Graham Dove  
 GeoJournal, 2026
 
-[Democratizing State-Led Land Use Mapping to Empower the Indigenous Use of Coastal Commons by Fishing Communities in Chennai, India](https://www.proquest.com/docview/2624656319?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (Not Peer-Reviewed)  
+Democratizing State-Led Land Use Mapping to Empower the Indigenous Use of Coastal Commons by Fishing Communities in Chennai, India [Link](https://www.proquest.com/docview/2624656319?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 Gopinath Gnanakumar Malathi  
 Pratt Institute, 2021
  
