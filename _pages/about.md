@@ -30,8 +30,15 @@ Pratt Institute, 2021
 
 ## Presentations & Workshops
 
-1. (Upcoming) AI & OSM Birds of a Feather - Workshop @ State of the Map US, 2026
-2. (Upcoming) The Social Life of OSM Data - Talk @ State of the Map US, 2026
-3. (Upcoming) Mapping at the Speed of AI: Balancing Efficiency, Agency, and Engagement in OSM - Poster @ State of the Map US, 2026
-4. What is “Good” Quality OSM Data? Exploring Perspectives and Approaches of Individual Contributors - Poster @ State of the Map US, 2025
+(Upcoming) AI & OSM Birds of a Feather
+Workshop @ State of the Map US, 2026
+
+(Upcoming) The Social Life of OSM Data
+Talk @ State of the Map US, 2026
+
+(Upcoming) Mapping at the Speed of AI: Balancing Efficiency, Agency, and Engagement in OSM
+Poster @ State of the Map US, 2026
+
+[What is “Good” Quality OSM Data? Exploring Perspectives and Approaches of Individual Contributors](https://drive.google.com/file/d/11mHXqaDl85kHD73Kx-4e8gyz8Kzi_v3h/view?usp=sharing)
+Poster @ State of the Map US, 2025
 
