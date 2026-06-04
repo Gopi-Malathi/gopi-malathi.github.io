@@ -13,20 +13,19 @@ I investigate how individuals and communities interact with geospatial technolog
 
 Prior to my PhD, I spent 6+ years in urban strategy consulting and community development. I leveraged geospatial analytics to support public, private, and nonprofit clients/partners across the Northeast US on projects ranging from renewable energy and infrastructure planning to environmental justice and economic development.
 
-## Research Studies & Publications
+## Ongoing Studies
 
-When AI Enters the Map: Exploring OSM Contributors’ Responses to AI-Assisted Mapping Tools (In-Progress)  
-Gopinath Gnanakumar Malathi, Graham Dove
+1. A mixed-methods empirical study exploring how OSM contributors have responded to the introduction and use of AI-assisted mapping, tagging, and validation tools. This study aims to offer implications for (a)  the design and deployment of AI-assisted mapping tools in OSM and (b) human-AI collaboration in crowdsourcing environments where participation carries epistemic value beyond just task completion.
+2. An empirical study evaluating the capabilities of LLMs to geoparse and geocode complex natural language spatial references within civic texts (e.g., community needs assessments, city council resolutions). It will also explore how inference-time interventions and Human-in-the-Loop (HITL) approaches can leverage human geospatial reasoning to fine-tune LLMs for these tasks.
 
+## Publications
 
-From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap [Publication](https://link.springer.com/article/10.1007/s10708-026-11641-4) [Pre-Print](https://drive.google.com/file/d/17DaRDRYZ9ZMmP1WJQlo2ya78_2UVG9Gi/view)
-Gopinath Gnanakumar Malathi, Graham Dove  
+From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap [[Publication](https://link.springer.com/article/10.1007/s10708-026-11641-4), [Pre-Print](https://drive.google.com/file/d/17DaRDRYZ9ZMmP1WJQlo2ya78_2UVG9Gi/view)]  
 GeoJournal, 2026
 
 Democratizing State-Led Land Use Mapping to Empower the Indigenous Use of Coastal Commons by Fishing Communities in Chennai, India [Link](https://www.proquest.com/docview/2624656319?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 Gopinath Gnanakumar Malathi  
 Pratt Institute, 2021
- 
 
 ## Presentations & Workshops
 
