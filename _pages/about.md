@@ -23,15 +23,19 @@ Prior to my PhD, I spent 6+ years in urban strategy consulting and community dev
 From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap [[Publication](https://link.springer.com/article/10.1007/s10708-026-11641-4), [Pre-Print](https://drive.google.com/file/d/17DaRDRYZ9ZMmP1WJQlo2ya78_2UVG9Gi/view)]  
 GeoJournal, 2026
 
-Democratizing State-Led Land Use Mapping to Empower the Indigenous Use of Coastal Commons by Fishing Communities in Chennai, India [Link](https://www.proquest.com/docview/2624656319?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+Democratizing State-Led Land Use Mapping to Empower the Indigenous Use of Coastal Commons by Fishing Communities in Chennai, India [[Publication](https://www.proquest.com/docview/2624656319?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)]  
 Pratt Institute, 2021
 
 ## Presentations & Workshops
 
-(Upcoming) AI & OSM Birds of a Feather (Workshop @ State of the Map US, 2026)
+(Upcoming) AI & OSM Birds of a Feather  
+(Workshop @ State of the Map US, 2026)
 
-(Upcoming) The Social Life of OSM Data (Talk @ State of the Map US, 2026)
+(Upcoming) The Social Life of OSM Data  
+(Talk @ State of the Map US, 2026)
 
-(Upcoming) Mapping at the Speed of AI: Balancing Efficiency, Agency, and Engagement in OSM (Poster @ State of the Map US, 2026)
+(Upcoming) Mapping at the Speed of AI: Balancing Efficiency, Agency, and Engagement in OSM  
+(Poster @ State of the Map US, 2026)
 
-[What is “Good” Quality OSM Data? Exploring Perspectives and Approaches of Individual Contributors](https://drive.google.com/file/d/11mHXqaDl85kHD73Kx-4e8gyz8Kzi_v3h/view?usp=sharing) (Poster @ State of the Map US, 2025)
+What is “Good” Quality OSM Data? Exploring Perspectives and Approaches of Individual Contributors [Link](https://drive.google.com/file/d/11mHXqaDl85kHD73Kx-4e8gyz8Kzi_v3h/view?usp=sharing)  
+(Poster @ State of the Map US, 2025)
