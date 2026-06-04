@@ -24,7 +24,6 @@ From the Fear of "adding noise to the data" to the confidence to "bend the rules
 GeoJournal, 2026
 
 Democratizing State-Led Land Use Mapping to Empower the Indigenous Use of Coastal Commons by Fishing Communities in Chennai, India [Link](https://www.proquest.com/docview/2624656319?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
-Gopinath Gnanakumar Malathi  
 Pratt Institute, 2021
 
 ## Presentations & Workshops
