@@ -19,7 +19,7 @@ When AI Enters the Map: Exploring OSM Contributors’ Responses to AI-Assisted M
 Gopinath Gnanakumar Malathi, Graham Dove
 
 
-[From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap] (https://link.springer.com/article/10.1007/s10708-026-11641-4)  
+[From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap](https://link.springer.com/article/10.1007/s10708-026-11641-4)  
 Gopinath Gnanakumar Malathi, Graham Dove  
 GeoJournal, 2026
 
