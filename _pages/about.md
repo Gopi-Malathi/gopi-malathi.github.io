@@ -9,14 +9,14 @@ redirect_from:
 
 I am a PhD Candidate in [Department of Technology Management & Innovation](https://engineering.nyu.edu/academics/departments/technology-management-and-innovation) at [NYU Tandon School of Engineering](https://engineering.nyu.edu/), working with [Dr. Graham Dove](https://engineering.nyu.edu/faculty/graham-dove). My research interests are at the intersection of Computer-Supported Collaborative Work (CSCW), Human-AI Interaction (HAI), and Geographic Information Science (GIScience).
 
-I investigate how individuals and communities interact with geospatial technologies to make maps, and how GeoAI might be reshaping their interactions with these technologies, their collaborative dynamics, and the geographic information they produce. Through my research, I aim to produce empirical evidence that might inform the responsible design and integration of GeoAI systems.
+I investigate how **individuals and communities interact with geospatial technologies to make maps, and how GeoAI might be reshaping their interactions with these technologies, their collaborative dynamics, and the geographic information they produce**. Through my research, I aim to produce empirical evidence that might inform the responsible design and integration of GeoAI systems.
 
 Prior to my PhD, I spent 6+ years in urban strategy consulting and community development. I leveraged geospatial analytics to support public, private, and nonprofit clients/partners across the Northeast US on projects ranging from renewable energy and infrastructure planning to environmental justice and economic development.
 
 ## Ongoing Studies
 
-1. A mixed-methods empirical study exploring how OSM contributors have responded to the introduction and use of AI-assisted mapping, tagging, and validation tools. This study aims to offer implications for (a)  the design and deployment of AI-assisted mapping tools in OSM and (b) human-AI collaboration in crowdsourcing environments where participation carries epistemic value beyond just task completion.
-2. An empirical study evaluating the capabilities of LLMs to geoparse and geocode complex natural language spatial references within civic texts (e.g., community needs assessments, city council resolutions). It will also explore how inference-time interventions and Human-in-the-Loop (HITL) approaches can leverage human geospatial reasoning to fine-tune LLMs for these tasks.
+1. A mixed-methods empirical study **exploring OSM contributors' responses to the introduction and use of AI-assisted mapping, tagging, and validation tools**. This study aims to offer implications for (a)  the design and deployment of AI-assisted mapping tools in OSM and (b) human-AI collaboration in crowdsourcing environments where participation carries epistemic value beyond just task completion.
+2. An empirical study **evaluating the capabilities of LLMs to geoparse and geocode complex natural language spatial references within civic texts** (e.g., community needs assessments, city council resolutions). It will also explore how inference-time interventions and Human-in-the-Loop (HITL) approaches can leverage human geospatial reasoning to fine-tune LLMs for these tasks.
 
 ## Publications
 
@@ -37,5 +37,5 @@ Pratt Institute, 2021
 (Upcoming) Mapping at the Speed of AI: Balancing Efficiency, Agency, and Engagement in OSM  
 (Poster @ State of the Map US, 2026)
 
-What is “Good” Quality OSM Data? Exploring Perspectives and Approaches of Individual Contributors [Link](https://drive.google.com/file/d/11mHXqaDl85kHD73Kx-4e8gyz8Kzi_v3h/view?usp=sharing)  
+What is “Good” Quality OSM Data? Exploring Perspectives and Approaches of Individual Contributors [[Link](https://drive.google.com/file/d/11mHXqaDl85kHD73Kx-4e8gyz8Kzi_v3h/view?usp=sharing)]  
 (Poster @ State of the Map US, 2025)
