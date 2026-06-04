@@ -13,13 +13,13 @@ I investigate how individuals and communities interact with geospatial technolog
 
 Prior to my PhD, I spent 6+ years in urban strategy consulting and community development. I leveraged geospatial analytics to support public, private, and nonprofit clients/partners across the Northeast US on projects ranging from renewable energy and infrastructure planning to environmental justice and economic development.
 
-## Publications
+## Research
 
 When AI Enters the Map: Exploring OSM Contributors’ Responses to AI-Assisted Mapping Tools (In-Progress)  
 Gopinath Gnanakumar Malathi, Graham Dove
 
 
-From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap (Accepted)  
+[From the Fear of "adding noise to the data" to the confidence to "bend the rules": Contributor interactions with mapping conventions shape participation and data quality in OpenStreetMap] (https://link.springer.com/article/10.1007/s10708-026-11641-4)  
 Gopinath Gnanakumar Malathi, Graham Dove  
 GeoJournal, 2026
 
