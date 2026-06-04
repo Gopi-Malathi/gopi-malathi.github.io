@@ -13,7 +13,7 @@ I investigate how individuals and communities interact with geospatial technolog
 
 Prior to my PhD, I spent 6+ years in urban strategy consulting and community development. I leveraged geospatial analytics to support public, private, and nonprofit clients/partners across the Northeast US on projects ranging from renewable energy and infrastructure planning to environmental justice and economic development.
 
-## Research
+## Research Studies & Publications
 
 When AI Enters the Map: Exploring OSM Contributors’ Responses to AI-Assisted Mapping Tools (In-Progress)  
 Gopinath Gnanakumar Malathi, Graham Dove
@@ -28,7 +28,7 @@ Gopinath Gnanakumar Malathi
 Pratt Institute, 2021
  
 
-## Presentations
+## Presentations & Workshops
 
 1. (Upcoming) AI & OSM Birds of a Feather - Workshop @ State of the Map US, 2026
 2. (Upcoming) The Social Life of OSM Data - Talk @ State of the Map US, 2026
